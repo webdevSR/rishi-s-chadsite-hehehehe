@@ -45,3 +45,12 @@ hr {
    border-color: #ee4b08;
    border-width: 4px;
 }
+
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+    .btn-xl {
+        padding: 0.5rem 1rem;
+    }
+}
